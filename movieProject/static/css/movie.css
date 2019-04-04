@@ -1,0 +1,25 @@
+.container .jumbotron {
+  margin-top: 200px;
+  background: orange;
+  color: white;
+}
+#b {
+  margin-top: 50px;
+  border:2px solid red;
+  padding: 50px;
+}
+
+thead, th {
+  border: 2px solid red;
+  font-size: 30px;
+  color: blue;
+  margin-left: auto;
+  background: yellow;
+  padding: 5px;
+}
+tr td{
+  border: 2px solid green;
+  font-size: 20px;
+  padding: 5px;
+
+}
